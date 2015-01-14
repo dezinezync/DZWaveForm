@@ -1,4 +1,7 @@
+/example_test_build
 tmp
 bin
 build
-*.zip
+*.xcuserdatad
+/iphone/*.zip
+/iphone/modules
